@@ -1,4 +1,7 @@
 # Constellation_Detection
+
+This was done as a part of the course Data Analysis and Visualization(DS250).
+
 1 Abhas Bind
 
 2 Karan Kant Yadav
