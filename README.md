@@ -1,9 +1,13 @@
 # Constellation_Detection
-1 Abhas Bind\\
-2 Karan Kant Yadav\\  
-3 Sanjay Kumar Purty\\
-4 Naimat Ali Khan\\
-5 Awanish Kumar\\
+1 Abhas Bind\
+
+2 Karan Kant Yadav\
+
+3 Sanjay Kumar Purty\
+
+4 Naimat Ali Khan\
+
+5 Awanish Kumar\
 
 Raw test images are in folder test_images\\
 
